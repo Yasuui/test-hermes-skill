@@ -1,0 +1,6 @@
+name: test-hermes-skill
+description: A test skill for Hermes
+version: 0.1.0
+author: Builder Bot
+entries:
+  - execute
